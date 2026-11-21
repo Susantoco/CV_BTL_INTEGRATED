@@ -1,0 +1,10 @@
+.venv/
+.claude/
+docs/
+image/
+source/
+CLAUDE.md
+__pycache__/
+*.pyc
+*.pt
+outputs/
